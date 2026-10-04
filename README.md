@@ -115,13 +115,13 @@ Selamat datang di arena bermain! Anda bisa memainkan game interaktif langsung di
 <div align="center">
 
 <!-- START_TICTACTOE -->
-<!-- STATE: [["X", " ", " "], [" ", "O", " "], [" ", " ", " "]] | GAMEOVER: false -->
-> **Status:** Langkah @Dhann8 (❌) di (0, 0) diterima. Bot (⭕) melangkah di (1, 1). Giliranmu lagi!
+<!-- STATE: [["X", "O", "X"], [" ", "O", " "], [" ", " ", " "]] | GAMEOVER: false -->
+> **Status:** Langkah @Dhann8 (❌) di (0, 2) diterima. Bot (⭕) melangkah di (0, 1). Giliranmu lagi!
 > **Pemain Terakhir:** @Dhann8
 
 | | Kolom 0 | Kolom 1 | Kolom 2 |
 | :---: | :---: | :---: | :---: |
-| **Baris 0** | ❌ | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C0%7C1&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+0,+Kolom+1!) | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C0%7C2&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+0,+Kolom+2!) | 
+| **Baris 0** | ❌ | ⭕ | ❌ | 
 | **Baris 1** | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C1%7C0&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+1,+Kolom+0!) | ⭕ | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C1%7C2&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+1,+Kolom+2!) | 
 | **Baris 2** | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C2%7C0&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+2,+Kolom+0!) | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C2%7C1&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+2,+Kolom+1!) | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C2%7C2&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+2,+Kolom+2!) | 
 
