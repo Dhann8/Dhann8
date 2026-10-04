@@ -87,12 +87,15 @@ motto: "Code is like humor. When you have to explain it, it's bad."
 
 ---
 
-# 🎮 ARCADE ZONE & MINI GAMES
 
-Selamat datang di area bermain! Silakan nikmati mini game interaktif di bawah ini:
+# 🎮 ARCADE & GAME ZONE
 
-### 🐍 1. Contribution Snake Game
-> Ular lapar sedang memakan commit & kontribusi GitHub saya!
+Selamat datang di arena bermain! Anda bisa memainkan game interaktif langsung di profil ini atau bermain game retro favorit:
+
+---
+
+### 🐍 1. GitHub Contribution Snake
+> *Ular lapar sedang menjelajahi grafik kontribusi commit saya!*
 
 <div align="center">
   <picture>
@@ -106,131 +109,54 @@ Selamat datang di area bermain! Silakan nikmati mini game interaktif di bawah in
 
 ---
 
-### 🕹️ 2. The Code Dungeon: Terminal Quest (Playable Mini RPG!)
-Klik pilihan di bawah untuk memainkan petualangan teks interaktif langsung dari profil ini:
+### ⭕ 2. Live Tic-Tac-Toe Bot (Mainkan Langsung di Profil!)
+> ⚔️ **Tantang Bot Saya!** Klik salah satu kotak kosong `⬜` di bawah untuk melangkah. GitHub Actions akan otomatis merespons langkahmu dan memperbarui papan secara *real-time*!
 
-```
-  ______________________________________________________
- /                                                      \
-|   [LEVEL 1] SELAMAT DATANG DI SERVER PRODUCTION       |
-|   Server tiba-tiba lempar 'HTTP 500 Fatal Error'!     |
-|   Tugasmu: Temukan akar masalah dan selamatkan app!   |
- \______________________________________________________/
-```
+<div align="center">
 
-<details>
-<summary>▶️ <b>[KLIK DI SINI] Pilih Senjata / Class Kamu</b></summary>
+<!-- START_TICTACTOE -->
+<!-- STATE: [[" ", " ", " "], [" ", " ", " "], [" ", " ", " "]] | GAMEOVER: false -->
+> **Status:** Game baru telah dimulai oleh @Dhann8! Silakan klik salah satu kotak kosong untuk melangkah (Kamu: ❌ | Bot: ⭕).
+> **Pemain Terakhir:** @Dhann8
+
+| | Kolom 0 | Kolom 1 | Kolom 2 |
+| :---: | :---: | :---: | :---: |
+| **Baris 0** | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C0%7C0&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+0,+Kolom+0!) | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C0%7C1&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+0,+Kolom+1!) | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C0%7C2&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+0,+Kolom+2!) | 
+| **Baris 1** | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C1%7C0&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+1,+Kolom+0!) | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C1%7C1&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+1,+Kolom+1!) | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C1%7C2&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+1,+Kolom+2!) | 
+| **Baris 2** | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C2%7C0&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+2,+Kolom+0!) | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C2%7C1&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+2,+Kolom+1!) | [⬜](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7C2%7C2&body=Klik+'Submit+new+issue'+untuk+melangkah+di+Baris+2,+Kolom+2!) | 
 
 <br/>
 
-Pilih gaya coding dan keahlianmu:
+[![Mulai Game Baru](https://img.shields.io/badge/🔄_Mulai_Game_Baru_/_Reset_Papan-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhann8/Dhann8/issues/new?title=ttc%7Creset&body=Klik+'Submit+new+issue'+untuk+mereset+papan+game!)
 
-- 🗡️ **[Class: Laravel Artisan]** -> Bersenjata `php artisan optimize:clear` & Eloquent Magic.
-- 🧙‍♂️ **[Class: Frontend Wizard]** -> Menguasai mantra `CSS Flexbox`, `Tailwind`, & `console.log`.
-- 🛡️ **[Class: Database Guardian]** -> Membawa perisai `INDEX`, `JOIN`, dan Backup SQL.
+<!-- END_TICTACTOE -->
 
----
+<br/>
 
-<details>
-<summary>📍 <b>Langkah 1: Menyelidiki Log Server</b></summary>
+<sub>💡 <i>Cara Bermain: Klik kotak kosong `⬜` -> Tekan tombol hijau <b>"Submit new issue"</b> di GitHub -> Tunggu ~15 detik -> Muat ulang halaman, bot akan membalas langkahmu!</i></sub>
 
-Kamu masuk ke folder `/storage/logs/laravel.log`. Tiba-tiba muncul **Monster Bug**! 🐛
-
-```
-       .-''''-.
-      /        \
-     /_        _\
-    // \      / \\
-    |\__\    /__/|
-     \    ||    /      [MONSTER DETECTED: Bug undefined variable $user]
-      \        /
-       '-....-'
-```
-
-Apa tindakanmu?
-
-<details>
-<summary>➡️ <b>Opsi A: Tambahkan `dd($user)` lalu refresh browser</b></summary>
-
-💥 **CRITICAL HIT!** Layar dump hitam muncul dengan megah. Ternyata datanya bernilai `null` karena lupa di-*compact* dari Controller!
-
-<details>
-<summary>🏆 <b>Lanjut ke Langkah 2: Hadapi Merge Conflict Dragon!</b></summary>
-
-Ketika ingin push fix ke branch `main`, git berteriak:
-```
-CONFLICT (content): Merge conflict in routes/web.php
-Automatic merge failed; fix conflicts and then commit the result.
-```
-
-Pilih caramu menyelesaikan konflik:
-
-<details>
-<summary>⚔️ <b>Solusi 1: Buka VS Code, pilih "Accept Both Changes", lalu rapihkan syntax</b></summary>
-
-🎉 **VICTORY! PERFECTION!**
-Build GitHub Actions lulus dengan centang hijau! Server production kembali online dengan mulus 🚀
-Kamu mendapatkan title kehormatan: **`Master of Clean Code 👑`**
-
-```
-   \O/   "All tests passed!"
-    |    Deployment Successful: 200 OK
-   / \   Kopi hangat dinikmati dengan tenang ☕
-```
-
-</details>
-
-<details>
-<summary>💣 <b>Solusi 2: `git push origin main --force`</b></summary>
-
-🚨 **KABOOM!** Rekan satu timmu panik di grup WhatsApp karena commit 3 hari terakhir terhapus! 
-*Game Over! Kembalilah dan gunakan `git merge` dengan damai.* 😉
-
-</details>
-
-</details>
-
-</details>
-
-<details>
-<summary>➡️ <b>Opsi B: Restart server lalu pura-pura tidak melihat</b></summary>
-
-⚠️ *Bug kembali 5 menit kemudian saat bos sedang testing demo!* 
-Coba pilih opsi debug yang benar di Opsi A!
-
-</details>
-
-</details>
-
-</details>
+</div>
 
 <br/>
 
 ---
 
-### ⭕ 3. Mini Tic-Tac-Toe Arena (X vs O)
+### 🕹️ 3. Retro 8-Bit Arcade Lounge (Play Instantly!)
+Ingin santai sejenak sambil bernostalgia? Pilih dan mainkan game klasik favoritmu hanya dengan satu klik:
 
-Ajak teman atau duel taktik di papan klasik ini!
+<div align="center">
 
-```
-     |     |     
-  ❌ |  ⭕ |  ❌ 
-_____|_____|_____
-     |     |     
-  ⭕ |  ❌ |     
-_____|_____|_____
-     |     |     
-     |  ⭕ |  ❓  <-- GILIRANMU! (Siapa yang menang?)
-```
+| 🦖 Chrome Dino Run | 🟡 Pac-Man Classic | 🚀 Space Invaders |
+| :---: | :---: | :---: |
+| [![Play Dino](https://img.shields.io/badge/▶_PLAY_NOW-DINO_RUN-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://elgoog.im/t-rex/) | [![Play Pacman](https://img.shields.io/badge/▶_PLAY_NOW-PAC--MAN-yellow?style=for-the-badge&logo=retroarch&logoColor=black)](https://freepacman.org/) | [![Play Space Invaders](https://img.shields.io/badge/▶_PLAY_NOW-SPACE_INVADERS-purple?style=for-the-badge&logo=atari&logoColor=white)](https://freeinvaders.org/) |
 
-<details>
-<summary>💡 <b>Lihat Hasil Analisis Taktik</b></summary>
+<br/>
 
-Jika giliran selanjutnya adalah **❌ (Silang)** dan diletakkan di kotak **`❓`**:
-- ❌ berhasil membuat garis diagonal dari kiri-atas ke kanan-bawah!
-- **HASIL: X MENANG! 🎉**
+| 🔢 2048 Puzzle | 🐦 Flappy Bird | 🐍 Retro Snake Classic |
+| :---: | :---: | :---: |
+| [![Play 2048](https://img.shields.io/badge/▶_PLAY_NOW-2048_GAME-orange?style=for-the-badge&logo=counterstrike&logoColor=white)](https://play2048.co/) | [![Play Flappy](https://img.shields.io/badge/▶_PLAY_NOW-FLAPPY_BIRD-red?style=for-the-badge&logo=googleplay&logoColor=white)](https://flappybird.ee/) | [![Play Snake](https://img.shields.io/badge/▶_PLAY_NOW-RETRO_SNAKE-brightgreen?style=for-the-badge&logo=nokia&logoColor=white)](https://playsnake.org/) |
 
-</details>
+</div>
 
 <br/>
 
