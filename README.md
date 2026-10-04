@@ -1,10 +1,10 @@
 <div align="center">
 
 # ⚡ Hi, I'm Dhann8 (Ramdhani) 👋
-### 🚀 Turning Ideas Into Elegant Code & Interactive Experiences
+### 🎓 Student & Aspiring Web Developer | Passionate Tech Learner
 
 <a href="https://github.com/Dhann8">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Laravel+%26+PHP+Artisan;Passionate+Problem+Solver;Gamer+%26+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Student+%26+Aspiring+Developer;Laravel+%26+PHP+Enthusiast;Continuous+Learner+%26+Builder;Gamer+%26+Tech+Explorer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,17 +22,18 @@
 ```yaml
 name: Ramdhani
 alias: Dhann8
-role: Full-Stack Web Developer
-stack: Laravel, PHP, JavaScript, Tailwind, MySQL
-passions: [Web Development, Clean Architecture, UI/UX, Gaming]
-current_focus: Building modern, scalable, and responsive web applications
-motto: "Code is like humor. When you have to explain it, it's bad."
+status: Pelajar / Student & Tech Enthusiast 🎓
+focus: Web Development (Laravel, PHP, JavaScript)
+passions: [Coding, Belajar Hal Baru, Problem Solving, Gaming]
+goal: Menjadi Software Engineer yang handal 🚀
+motto: "Belajar setiap hari, error hari ini adalah ilmu untuk esok hari."
 ```
 
-- 🔭 **Current Focus:** Mengembangkan aplikasi web interaktif, sistem presensi, dan platform berbasis Laravel & Modern JS.
-- 🌱 **Learning & Exploring:** Modern Frontend Ecosystems, RESTful API Design, Microservices, and Performance Optimization.
-- ⚡ **Fun Fact:** Kalau kode jalan di percobaan pertama, biasanya malah curiga ada yang terlewat.
-- 💬 **Ask me about:** PHP, Laravel, Tailwind CSS, Blade, MySQL, or your favorite video games!
+- 🎓 **Status:** Pelajar yang antusias mendalami dunia pemrograman dan pengembangan aplikasi web.
+- 🔭 **Sedang Dikerjakan:** Mengembangkan berbagai project web (seperti aplikasi presensi, sistem manajemen, dll) menggunakan Laravel & Tailwind CSS.
+- 🌱 **Sedang Dipelajari:** Memperdalam backend architecture, pembuatan RESTful API, dan optimasi database MySQL.
+- ⚡ **Fun Fact:** Lebih betah berjam-jam ngulik kode dan debug error daripada disuruh hafalan teori.
+- 💬 **Tanya saya tentang:** PHP, Laravel, Tailwind CSS, Blade, atau game favoritmu!
 
 <br/>
 
@@ -70,7 +71,7 @@ motto: "Code is like humor. When you have to explain it, it's bad."
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
@@ -81,35 +82,30 @@ motto: "Code is like humor. When you have to explain it, it's bad."
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhann8&layout=compact&theme=tokyonight&hide_border=true" alt="Dhann8's Top Languages" height="165" />
 
+<br/><br/>
+
+### 🐍 GitHub Contribution Snake
+> *Animasi ular yang memakan kontribusi commit saya sepanjang tahun*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhann8/Dhann8/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhann8/Dhann8/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Dhann8/Dhann8/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
 </div>
 
 <br/>
 
 ---
-
 
 # 🎮 ARCADE & GAME ZONE
 
-Selamat datang di arena bermain! Anda bisa memainkan game interaktif langsung di profil ini atau bermain game retro favorit:
+Selamat datang di arena bermain! Mainkan game interaktif langsung di profil ini atau nikmati game retro favorit:
 
 ---
 
-### 🐍 1. GitHub Contribution Snake
-> *Ular lapar sedang menjelajahi grafik kontribusi commit saya!*
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhann8/Dhann8/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhann8/Dhann8/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Dhann8/Dhann8/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
-
----
-
-### ⭕ 2. Live Tic-Tac-Toe Bot (Mainkan Langsung di Profil!)
+### ⭕ 1. Live Tic-Tac-Toe Bot (Mainkan Langsung di Profil!)
 > ⚔️ **Tantang Bot Saya!** Klik salah satu kotak kosong `⬜` di bawah untuk melangkah. GitHub Actions akan otomatis merespons langkahmu dan memperbarui papan secara *real-time*!
 
 <div align="center">
@@ -141,7 +137,7 @@ Selamat datang di arena bermain! Anda bisa memainkan game interaktif langsung di
 
 ---
 
-### 🕹️ 3. Retro 8-Bit Arcade Lounge (Play Instantly!)
+### 🕹️ 2. Retro 8-Bit Arcade Lounge (Play Instantly!)
 Ingin santai sejenak sambil bernostalgia? Pilih dan mainkan game klasik favoritmu hanya dengan satu klik:
 
 <div align="center">
@@ -168,11 +164,11 @@ Ingin santai sejenak sambil bernostalgia? Pilih dan mainkan game klasik favoritm
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imdhan26@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhann8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramdhani-undefined)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhaannn2)
 
 <br/>
 
-*⭐ Terima kasih telah berkunjung ke profil saya! Jangan lupa beri bintang jika kamu suka.*
+*Terima kasih telah berkunjung ke profil saya! Jangan lupa beri bintang jika kamu suka.*
 
 </div>
