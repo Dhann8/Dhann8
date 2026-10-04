@@ -99,7 +99,7 @@ def render_board(board, status_msg, last_player, game_over):
         lines.append(row_str + "\n")
 
     reset_link = f"{issue_base_url}?title=ttc%7Creset&body=Klik+'Submit+new+issue'+untuk+mereset+papan+game!"
-    lines.append(f"\n<br/>\n\n[![Mulai Game Baru](https://img.shields.io/badge/🔄_Mulai_Game_Baru_/_Reset_Papan-238636?style=for-the-badge&logo=github&logoColor=white)]({reset_link})\n")
+    lines.append(f"\n<br/>\n\n[![Mulai Game Baru](https://img.shields.io/badge/🔄_Mulai_Game_Baru_/_Reset_Papan-3E2723?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=231610)]({reset_link})\n")
 
     return "".join(lines)
 
